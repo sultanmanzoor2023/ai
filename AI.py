@@ -69,7 +69,7 @@ st.markdown("""
     .clickable-image {
         cursor: pointer;
         margin-bottom: 10px;
-        width: 50%;
+        width: 100%;
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         transition: transform 0.3s ease;
