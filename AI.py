@@ -493,7 +493,8 @@ def main():
     tab_info, tab_predict = st.tabs(["📝 App Description", "🔮 Price Prediction"])
 
     with tab_info:
-        st.header("🔮 Demo version prediction accuracy rate 70% ")
+        st.header("🔮 Demo version. 
+        Prediction accuracy rate 70% ")
         st.markdown("""
         
         Demo version work for hourly & daily prediction only.
