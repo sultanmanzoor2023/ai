@@ -490,7 +490,7 @@ def main():
         """)
 
     # Main tabs
-    tab_info, tab_predict = st.tabs(["📝 App Description", "🌌 Price Prediction"])
+    tab_info, tab_predict = st.tabs(["📝 App Description", "🔮 Price Prediction"])
 
     with tab_info:
         st.header("📝 How It Works")
@@ -508,7 +508,7 @@ def main():
         - The system will automatically train a model if needed
         - View your price predictions
 
-        **WOW**.... You are in the **🌌 future** now.
+        **WOW**.... You are in the **🔮 future** now.
 
         **Available Models:**
         - **MLP Neural Network**: Basic feedforward neural network
@@ -524,7 +524,7 @@ def main():
         """)
 
     with tab_predict:
-        st.header("🌌 Price Prediction")
+        st.header("🔮 Price Prediction")
 
         col1, col2, col3 = st.columns([3, 2, 2])
         with col1:
