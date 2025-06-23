@@ -493,10 +493,15 @@ def main():
     tab_info, tab_predict = st.tabs(["📝 App Description", "🔮 Price Prediction"])
 
     with tab_info:
-        st.header("🔮 Prediction accuracy 85% ")
+        st.header("🔮 Demo version prediction accuracy rate 70% ")
         st.markdown("""
-        After earn profit donate to address below for app update for more accuracy.
-        **USDT BNB Chain Address 0x1469686F6116aBb4B3e963Eb3B55E1F6233a5e35**
+        
+        Demo version work for hourly & daily prediction only.
+        Full version work for hourly, daily, weekly & monthly.
+        Full version accuracy rate 95%.
+        If you need full windows version contact us.
+        
+        **WhatsApp: +923074848298**
         
         📝 **How its work?**
         
