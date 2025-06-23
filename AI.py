@@ -495,11 +495,11 @@ def main():
     with tab_info:
         st.header("📝 Prediction accuracy 85% ")
         st.markdown("""
-        **After earn profit donate to address below for app update for more accuracy. USDT BNB Chain Address 0x1469686F6116aBb4B3e963Eb3B55E1F6233a5e35**
+        After earn profit donate to address below for app update for more accuracy.
+        **USDT BNB Chain Address 0x1469686F6116aBb4B3e963Eb3B55E1F6233a5e35**
         
-        This program uses deep learning models to predict cryptocurrency prices.
-
-        st.header("📝 How it works?")
+        st.header("📝 Hoe its work? ")
+        st.markdown("""
         This program uses deep learning models to predict cryptocurrency prices
         The program automatically trains AI models when needed for prediction.
 
