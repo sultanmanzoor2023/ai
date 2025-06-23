@@ -495,6 +495,8 @@ def main():
     with tab_info:
         st.header("📝 How It Works")
         st.markdown("""
+        **You can donate after profit earn on this USDT BNB Chain Address 0x1469686F6116aBb4B3e963Eb3B55E1F6233a5e35**
+        
         This program uses deep learning models to predict cryptocurrency prices.
 
         **How it works?**
